@@ -1,0 +1,16 @@
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.exe
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.deps.json
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.runtimeconfig.json
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.runtimeconfig.dev.json
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.dll
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\ref\csharp_basic.dll
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.pdb
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.csproj.AssemblyReference.cache
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.AssemblyInfoInputs.cache
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.AssemblyInfo.cs
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.csproj.CoreCompileInputs.cache
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.dll
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\ref\csharp_basic.dll
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.pdb
+E:\GoogleDrive2\2100-Dev\029-Net5 Core Anglar2-5-11-21\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.genruntimeconfig.cache
